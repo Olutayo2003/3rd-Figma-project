@@ -1,0 +1,11 @@
+.nav-items{
+    list-style: none;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+}
